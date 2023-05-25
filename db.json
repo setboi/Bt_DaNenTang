@@ -1,0 +1,15 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "userName": "huyvxph27045",
+            "password": "123456",
+            "firtName": "Huy",
+            "lastName": "Vuong",
+            "email": "huyvxph27045@fpt.edu.vn",
+            "gender": "Male",
+            "createDate": "23/03/2003",
+            "updateDate": "23/03/2023"
+        }
+    ]
+}
